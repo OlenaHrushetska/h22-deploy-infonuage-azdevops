@@ -8,9 +8,9 @@ trigger:
 
 variables:
   buildConfiguration: 'Release'
-  serviceConnection : 'az-serviceprincipal'
+  serviceConnection : 'src-tp'
   artifactName: 'drop'
-  environment: 'h22-developpement'
+  environment: 'Dev'
   webAppName: 'webapp-h22-dev-122'
 
 stages:

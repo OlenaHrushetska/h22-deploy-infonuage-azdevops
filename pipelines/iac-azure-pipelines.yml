@@ -14,8 +14,8 @@ variables:
   resourceGroupName: 'rg-tp'
   location: 'canadacentral'
   templateFile: '**/main.bicep'
-  webAppName: 'webapp-h22-dev-123'
-  webAppNameProd : 'webapp-h22-prod-123'
+  webAppName: 'webapp-h22-dev-223'
+  webAppNameProd : 'webapp-h22-prod-223'
 
 steps:
 
